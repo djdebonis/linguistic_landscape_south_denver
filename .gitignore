@@ -165,3 +165,4 @@ dmypy.json
 *.app
 
 # MAC
+.DS_Store
