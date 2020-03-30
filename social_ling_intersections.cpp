@@ -4,8 +4,9 @@
 #include <fstream>
 #include <cstdlib>
 #include <time.h>
-using namespace std;
+using namespace std; // include necessary C++ libraries
 
+// define functions outside of main()
 string intersection_maker(string street1, string street2);
 
 void fill_array(string intersection_arr[],string ns_streets[], string we_streets[], int rows, int columns);
@@ -51,7 +52,7 @@ int main() {
     cout<< endl;
 
     // define arrays that will be used to store the randomly selected intersections
-    const int select_size = 8;
+    const int select_size = 12;
     string select_west[select_size];
     string select_east[select_size];
 
@@ -100,13 +101,16 @@ int main() {
 
 
 string intersection_maker(string street1, string street2) {
+    // takes two streets (one West-->East & one North-->South) and concats them into one intersection string
     string intersection;
     intersection = street1 + "_&_" + street2;
     return intersection;
 }
 
 void fill_array(string intersection_arr[],string ns_streets[], string we_streets[], int rows, int columns){
-    for (int i = 0; i < rows; i++) {
+    // build an array that contains all of the intersections given the [intersecting] streets West-->East
+    // and North-->South.
+    for (int i = 0; i < rows; i++) { // use a nested for loop to assure that every combination is met
         string ns = ns_streets[i];
         for (int j = 0; j < columns; j++) {
             string we = we_streets[j];
@@ -118,12 +122,15 @@ void fill_array(string intersection_arr[],string ns_streets[], string we_streets
 }
 
 void print_array(string arr[], int arr_size) {
+    // print array to the console output
     for (int i = 0; i < arr_size; i++) {
         cout << arr[i] << endl;
     }
 }
 
 void selector(string arr[], int arr_size, int select_size, int seed, string selections[]){
+    // select (by index) intersections in the array utilizing a random number generator within the bounds of the
+    // index size
     for(int i = 0; i < select_size; i++){
         srand(seed + i);
         int select = rand()%arr_size;
