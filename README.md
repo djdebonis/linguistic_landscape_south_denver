@@ -26,8 +26,6 @@ The South Platte River through South Denver was elected as the centerpiece of th
 
 Although the Platte Barrier is not a major geographical barrier when compared to, say, the Rocky Mountains, or the Mississippi river in Memphis Tenesse, there is a bottleneck friction associated with crossing it, for all of the traffic is funneled into only 10 roads; also, the barrier (especially further North) inhibits foot and bike traffic since many of the roads that cross it are bridges with high-speed vehicle traffic. However--more than anything else--the Platte Barrier represents a social barrier between the East and West sides. If demographic groups are distinguished on either side, people of any demographic are less likely to cross that barrier when they move.(I need to find >1 article on Linguistic Landscapes to site.)
 
-### (2.2) The social space
-
 ### (2.3) Sampling & randomization
 
 Within the aforementioned bounds, six busy East/West streets were elected: Colfax Ave, Sixth Ave, Alameda Ave, Mississippi Ave, Jewell Ave, and Hampden Ave/Hgwy 285. Then, within the same bounds, four busy North/South streets were elected on the East side of the Platte Barrier: Kipling St, Wadsworth Blvd, Sheridan Blvd, and Federal Blvd, as well as 4 on the West side: Broadway, University Blvd, Colorado Blvd, and Havana St.
@@ -36,7 +34,7 @@ After the streets were assigned, C++ was used to combine the streets into 48 int
 
 ### (2.4) Data Collection
 
-ajsdflkasdf
+For each intersection in the sample, GPS coordinates were recorded at the centerpoint of the cross-streets. Then, data was collected for the signs of each storefront adjacent to the intersection; there was not a numerical standardization for how far the storefront stretched from the intersection, however none of the storefronts exceeded one block from the intersection. Signs were coded into two main categories: maintitle & subtitle. Maintitle refered to the large, primary sign of the business/store; this was often--but not always--the name of the business. Subtitle may have refered to any additional signage that communicated information about the business: hours of operation, product and service descriptions, and open/closed signs would account for most of--but would not limit--the breadth of the subtitle sign component. Each storefront was 'visited' using Google Maps, a screenshot was taken, and data was recorded into a CSV file. 
 
 ### (2.5) Language coding parameters
 
@@ -49,7 +47,7 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 ![](images/taxes_unidos.png)
 *Figure 3: "Taxes Unidos Services" Spanglish maintitle example (https://www.google.com/maps)*
 
-![](images/sol_tattoo.png)
+![](images/sol_tattoo.png = 100x)
 *Figure 4: "Sol Tattoo" Spanglish maintitle example (https://www.google.com/maps)*
 
 **(3) Translation (transl):** Translation was determined to be a combination of Spanish and English where and expression in either one of the languages was translated into an equivelant (or close match) in the other language. An example of this is seen below, where "Coin Laundry" is translated after a slash as "Lavanderia," and "Free dry with wash" is translated below as "Secado gratis con lavado" (Figure 5).
@@ -62,11 +60,22 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 ![](images/ponchos_subtitle.png)
 *Figure 6: "Poncho's Mexican Resaurant" Mix subtitle example (https://www.google.com/maps)*
 
+### (2.6) Data analysis and representation
 
+All of the data calculation, analysis, and representation was completed in a Python notebook in Jupyter Lab utilizing libraries: matplotlib, numpy, pandas, scipy.stats, and statistics (see analysis&representation.ipynb). (The code is honestly a mess right now. The data collection took far longer than was expected, and the code was written in a hurry to assure completion of the final project by the deadline.)
 
-## Appendix A
+## (3.0) Results
+
+## (4.0) Discussion
+
+### (4.x) Limitations
+
+## (5.0) Conclusion
+
 
 
 ## References
 
 http://www.metrodenver.org/do-business/communities/
+
+https://www.google.com/maps
