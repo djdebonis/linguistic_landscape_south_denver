@@ -47,7 +47,7 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 ![](images/taxes_unidos.png)
 *Figure 3: "Taxes Unidos Services" Spanglish maintitle example (https://www.google.com/maps)*
 
-![](images/sol_tattoo.png = 100x)
+![](images/sol_tattoo.png width="200")
 *Figure 4: "Sol Tattoo" Spanglish maintitle example (https://www.google.com/maps)*
 
 **(3) Translation (transl):** Translation was determined to be a combination of Spanish and English where and expression in either one of the languages was translated into an equivelant (or close match) in the other language. An example of this is seen below, where "Coin Laundry" is translated after a slash as "Lavanderia," and "Free dry with wash" is translated below as "Secado gratis con lavado" (Figure 5).
