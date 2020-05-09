@@ -52,17 +52,17 @@ int main() {
     cout<< endl;
 
     // define arrays that will be used to store the randomly selected intersections
-    const int select_size = 12;
+    const int select_size = 7;
     string select_west[select_size];
     string select_east[select_size];
 
-    // fill the select_west array with 8 random intersections West of the platte
+    // fill the select_west array with 7 random intersections West of the platte
     selector(intersections_west, arr_size, select_size, 9, select_west);
     cout << "Selections West of the Platte:" << endl;
     print_array(select_west, select_size);
     cout << endl;
 
-    // fill the select_east array with 8 random intersections East of the platte
+    // fill the select_east array with 7 random intersections East of the platte
     selector(intersections_east, arr_size, select_size, 9, select_east);
     cout << "Selections East of the Platte:" << endl;
     print_array(select_east, select_size);
