@@ -60,7 +60,7 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 
 **(3) Translation (transl):** Translation was determined to be a combination of Spanish and English where and expression in either one of the languages was translated into an equivelant (or close match) in the other language. An example of this is seen below, where "Coin Laundry" is translated after a slash as "Lavanderia," and "Free dry with wash" is translated below as "Secado gratis con lavado" (Figure 5).
 
-<img src="images/sol_lavanderia.png" width="500">
+<img src="images/lavanderia.png" width="500">
 *Figure 5: "Coin Laundry/Lavanderia" Translation maintitle and subtitle example (https://www.google.com/maps)*
 
 
