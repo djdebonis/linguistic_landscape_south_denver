@@ -1,5 +1,8 @@
 # soc_ling_final
-Final Project on Linguistic Landscapes for my Social Linguistics course @ CU Denver
+
+Linguistic landscape on the East and West sides of the Platte River in South Denver: competing frequencies & functions of Spanish. Final project for Introduction to Social Linguistics course at The Unviersity of Colorado, Denver, taught by Gabriela DeRobles.
+
+The code is still a mess.
 
 ## (1.0) Introduction
 ### (1.1) Linguistic landscapes
@@ -47,13 +50,16 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 ![](images/taxes_unidos.png)
 *Figure 3: "Taxes Unidos Services" Spanglish maintitle example (https://www.google.com/maps)*
 
+
 <img src="images/sol_tattoo.png" width="200">
 *Figure 4: "Sol Tattoo" Spanglish maintitle example (https://www.google.com/maps)*
+
 
 **(3) Translation (transl):** Translation was determined to be a combination of Spanish and English where and expression in either one of the languages was translated into an equivelant (or close match) in the other language. An example of this is seen below, where "Coin Laundry" is translated after a slash as "Lavanderia," and "Free dry with wash" is translated below as "Secado gratis con lavado" (Figure 5).
 
 ![](images/lavanderia.png)
 *Figure 5: "Coin Laundry/Lavanderia" Translation maintitle and subtitle example (https://www.google.com/maps)*
+
 
 **(4) Mix (mix):** If the sign component contained both Spanish and English, but the phrases were distinct/separate and the uses of each language denoted different signifcances, then the sign component was coded as "Mix" (mix). As can be seen below in the subtitle in Figure 6, "Hours:" is translated into "Horarios," yet the days (e.g. "Mon - Turs") are as well as "Orders to go" are only depicted in English, while still again "Restaurante" and "Jaliciense" (of or relating to Mexican state of Jalisco) are only depicted in Spanish.
 
