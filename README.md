@@ -51,7 +51,7 @@ Because the focus of the present study is Spanish, Spanish language usage was br
 *Figure 3: "Taxes Unidos Services" Spanglish maintitle example (https://www.google.com/maps)*
 
 
-<img src="images/sol_tattoo.png" width="200">
+<img src="images/sol_tattoo.png" width="400">
 *Figure 4: "Sol Tattoo" Spanglish maintitle example (https://www.google.com/maps)*
 
 
