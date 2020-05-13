@@ -6,11 +6,28 @@ The code is still a mess.
 
 ## (1.0) Introduction
 ### (1.1) Linguistic landscapes
-### (1.2) Linguistic barriers: Geographical and social
-### (1.3) Competing funtions of language usage in Denver
+
+Spoken language has consistently proven a difficult entity to research because it--like a cultural value--is highly untangible; this intangible component of society is referred to as a mentifact. Methods have been developed to study spoken language, but all of these methods involve quantifying the concrete, physical component of spoken language, which is sound, but sound is transient and bound completely to the construct of time. There is, however, a more persistent manifestation of language--written word.
+
+Writing, unlike spoken language, is an artifact of society. The sum of the writing in an environment is referred to as a linguistic landscape. Linguistic landscapes are often studied because--with the proper analysis--they are reflections of the diversity, culture, practices, perceptions, and values of a society. 
+
+### (1.2) Linguistic barriers: Geographical and social distance
+
+Geographical distance is a large factor in the character of populations. A prime example of this is seen in the instance of gene flow (how gene frequencies change as a result of contact between populations), where, as geographical distance increases, gene frequencies are spread across populations, increasing biological diversification, and, eventually, leading to the development of a new species. Further, gene flow is not a mere one-directional shift, but can also occur with contact between populations. This same pattern can be seen with language, as well (Huisman, Majid, & van Hout, 2019). Geograpical distance plays a large role in the development of new dialects and langauges, as well as the outcomes of language contact phenomena such as pidginization, creolization, and dialect mixing & leveling. 
+
+Geographical distance can be seen as a function of a combination of the time and energy required to travel a specific distance. Traditionally, large geographical barriers (such as mountains or rivers) increase this geographical distance because they increase both the time & energy required to cover the alloted distance. And so, these geographical barriers eventually result in large differences in the populations on either side of the barrier. To continue the biological analogy, this phenomenon occurs with speciation in biological evolution; an example of this is how humans' last common ancestors, Bonobos and Chimpanzees, likely speciated due to the development of the Congo river. And, once again, geographical barriers also play a role in geographical distance relating to language. Pulgram (1969), for example, notes the paramount impact that mountain ranges played on the deviation of Vulgar Latin in ancient Italy, and, eventually, the profound linguistic diversification of modern Italian dialects. The mountain ranges were barriers that required much larger energy stores & time periods to cover short distances that would not be intangible on flat-ground. This limited contact between groups, thus increasing the geographical distance, and eventually the linguistic difference, between them.
+
+Geographical distance is not the only contributing factor, though. The linguistic configuration of an area--as well as the probability of contact between language communities/groups--is a function of three major factors: time, space, and social setting (Huisman, Majid, & van Hout, 2019). 
+
+In terms of temporal factors, there is the obvious fact that, if two languages are in the same place at different times, there is likely to be no contact between them (unless, ofcourse, there is a physical component of the language, suc as writing). However, the amount of time alloted for contact between groups or separation of groups also plays into this. Space mostly denotes the geographical distance covered above, but also refers to population density--a function of volume of space and frequency of language use. Finally, there is social setting, which refers to the abstract relationship between concepts such as social and cultural values, perceptions, practices, and so on. 
+
+Although social factors are less tangible, they are highly interrelated with geographical distance. Social distance could be defined as the degree of difference between socio-psycho-cultural qualities, as well as the *perception of* that difference). Social distance functions very similarly to geographical distance (Trudgill, 2000), for it isolates (alienates) groups, and eventually leads to larger linguistic difference. Social distance will be touched on in this study, but it will not be the primary emphasis.
+
+Although most of the theory and research relating to geographical distance and geographical barriers as functions of linguistic distance focuses on spoken language, many parallels can be drawn to linguistic landscapes. Although linguistic landscapes do not 'communicate' and 'interact' to the same degree as spoken language, the communities and populations that develop the linguistic landscapes do. And so this study will explore a relatively small geographical barrier in South Denver, as well as the role it may play in in the linguistic landscapes on either side of that barrier.
 
 
 ## (2.0) Materials and methods
+
 ### (2.1) The geographical space
 
 The geographical space in Greater Denver Area that was elected for this study is a relatively rectangular map that exists between Colfax Avenue to the North, Havana to the East, Hampden/285 to the South, and Kipling to the West. Although these four major roads were carefully elected as the bounds of the experiment, the space of the study stretches slightly beyond each of the roads in order to contain linguistic storefront features on all sides of their respective intersections (see Figure 1).
