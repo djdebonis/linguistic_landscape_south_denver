@@ -9,7 +9,9 @@ The code is still a mess.
 
 Spoken language has consistently proven a difficult entity to research because it--like a cultural value--is highly untangible; this intangible component of society is referred to as a mentifact. Methods have been developed to study spoken language, but all of these methods involve quantifying the concrete, physical component of spoken language, which is sound, but sound is transient and bound completely to the construct of time. There is, however, a more persistent manifestation of language--written word.
 
-Writing, unlike spoken language, is an artifact of society. The sum of the writing in an environment is referred to as a linguistic landscape. Linguistic landscapes are often studied because--with the proper analysis--they are reflections of the diversity, culture, practices, perceptions, and values of a society. Although linguistic landscapes likely function differently from spoken language, there are many parallels to be drawn. This paper proceeds with the hopefully not too optimistic assumption that linguistic theories that have been applied exclusively to spoken language are at least somewhat applicable to the patterns and behaviors of linguistic landscapes.
+Writing, unlike spoken language, is an artifact of society. The sum of the writing in an environment is referred to as a linguistic landscape. Linguistic landscapes are often studied because--with the proper analysis--they are reflections of the diversity, culture, practices, perceptions, and values of a society. Linguistic landscapes are defined as "'The language of public road signs, advertising billboards, street names, place names, commercial shop signs, and public signs on government buildings combines to form the linguistic landscape of a given territory, region, or urban agglomeration'" (Landry & Bourhis,1997, p. 25, qtd. in SemiotiX, 2020). Much reseach has been done into linguistic landscapes, and much research has been done into humanistic geography and the distribution of Spoken language, but less research has been done into 
+geosemiotics and geographical distributions of written language.
+Although linguistic landscapes likely function differently from spoken language, there are many parallels to be drawn. This paper proceeds with the hopefully not too optimistic assumption that linguistic theories that have been applied exclusively to spoken language are at least somewhat applicable to the patterns and behaviors of linguistic landscapes.
 
 ### (1.2) Linguistic barriers: Geographical and social distance
 
@@ -150,13 +152,15 @@ Future research could also benefit from more interpretation of the geographical 
 
 Ernst, P. (1969). *The tongues of Italy: prehistory and history.* Greenwood Press.
 
+Google (2020). Google Maps. *Google.* https://www.google.com/maps
+
 Huisman, J. L. A., Majid, A., & van Hout, R. (2019). The geographical configuration of a language
 area influences linguistic diversity. *Public Libary of Science.* 14(6).
-
-Trudgill, P. (2000). “Chapter 5: Language and Context,” *Sociolinguistics: An introduction
-to language and society.* (4th ed., pp. 81-104). Penguin Books.
 
 
 Metro Denver (2020). Communities. *MetroDenver Economic Development Coorporation.* *http://www.metrodenver.org/do-business/communities/
 
-Google (2020). Google Maps. *Google.* https://www.google.com/maps
+SemiotiX (2020). The sociolinguisics of space and semiotic landscapes: An introduction. *SemiotiX: A global information magazine.* https://semioticon.com/semiotix/2013/05/the-sociolinguistics-of-space-and-semiotic-landscapes-an-introduction/
+
+Trudgill, P. (2000). “Chapter 5: Language and Context,” *Sociolinguistics: An introduction
+to language and society.* (4th ed., pp. 81-104). Penguin Books.
