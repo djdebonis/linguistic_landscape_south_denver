@@ -1,6 +1,6 @@
 # soc_ling_final
 
-Linguistic landscape on the East and West sides of the Platte River in South Denver: competing frequencies & functions of Spanish. Final project for Introduction to Social Linguistics course at The Unviersity of Colorado, Denver, taught by Gabriela DeRobles.
+Linguistic landscape on the East and West sides of the Platte River in South Denver: competing frequencies & functions of Spanish. Final project for Introduction to Social Linguistics course at The Unviersity of Colorado, Denver, taught by Professor Gabriela DeRobles.
 
 The code is still a mess.
 
